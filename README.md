@@ -1,1 +1,3 @@
 # Blood_bank_project_java
+
+In this project we are dealing with a mechanism of blood bank like collection of blood, removal of blood, Adding of Donor and Patient, Update information of both donor and patient and contact with other blood bank. We have made class Blood Bank, Donor, Patient, Staff and Blood Pouch. We are asking the user basic information about the class like: name of donor and patient, CNIC number, Blood Group, Cholesterol level, Address etc. We are also saving the entered data by user into text file so that you update or remove that data. We have used methods of setters, getters, toString, equal and we have used file I/O and Array list in this project
